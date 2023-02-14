@@ -1,4 +1,4 @@
-[preload  storage="./data/bgimage/room.jpg"  ]
+[preload  storage="./data/bgimage/image.png"  ]
 [preload  storage="./data/fgimage/chara/7/mascot4.png"  ]
 [preload  storage="./data/fgimage/chara/7/mascot5.png"  ]
 [preload  storage="./data/fgimage/chara/5/rlim_2.png"  ]

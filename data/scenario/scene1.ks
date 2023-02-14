@@ -1,7 +1,7 @@
 [_tb_system_call storage=system/_scene1.ks]
 
 [cm  ]
-[bg  storage="room.jpg"  time="1000"  ]
+[bg  storage="image.png"  time="1000"  ]
 [tb_show_message_window  ]
 [playbgm  volume="60"  time="1000"  loop="true"  storage="mystery-70-mix-20641.mp3"  fadein="true"  ]
 [chara_show  name="Rlim"  time="1000"  wait="true"  storage="chara/5/rlim_1.png"  width="757"  height="732"  left="-4"  top="-12"  reflect="true"  ]
@@ -92,12 +92,12 @@ Much like Rlim had said – it was like looking at a reflection![p]
 [_tb_end_text]
 
 [chara_mod  name="Puddle"  time="600"  cross="true"  storage="chara/7/mascot2.png"  ]
-[chara_hide  name="Puddle"  time="1000"  wait="true"  pos_mode="false"  ]
 [tb_start_text mode=1 ]
 #Puddle
 (Double cuties! I think I'll call the second one Rlam...)[p]
 [_tb_end_text]
 
+[chara_hide  name="Puddle"  time="1000"  wait="true"  pos_mode="false"  ]
 [chara_mod  name="Rlim"  time="600"  cross="true"  storage="chara/5/rlim_2.png"  ]
 [tb_start_text mode=1 ]
 #Rlim
